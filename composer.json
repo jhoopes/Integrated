@@ -1,5 +1,5 @@
 {
-    "name": "laracasts/integrated",
+    "name": "jhoopes/integrated",
     "description": "Simple, intuitive integration testing with PHPUnit.",
     "keywords": ["testing", "laravel", "goutte", "integration", "laracasts"],
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "JeffreyWay",
             "email": "jeffrey@laracasts.com"
+        },
+        {
+            "name": "John Hoopes"
+            "email": "john@greenleafmedia.com"
         }
     ],
     "require": {
